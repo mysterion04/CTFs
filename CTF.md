@@ -27,7 +27,7 @@
 
 - ### We all know the best tool for network enumeration is `nmap`, so as always
 
-![nmap results](https://i.ibb.co/yp5zCBL/Screenshot-2021-11-02-at-2-38-21-PM.png)
+![nmap results](https://i.ibb.co/4Nfx8RC/Screenshot-2021-11-02-at-2-38-21-PM.png)
 
 - ### We have gathered: ###
     - Ports 22 and 80 are open
@@ -65,6 +65,7 @@
     - So here in the hint the `r` is directory, and now following the directory `r/a/b/b/i/t`
     - We follow it- <http://10.10.56.104/r/a/b/b/i/t/>
     - Here we get yet another web page
+    
     ![](https://i.ibb.co/pdX9Mc3/Screenshot-2021-11-02-at-3-46-35-PM.png)
     - Just like the previous web page there's nothing to do here, but... when we view the view the page source
     ![](https://i.ibb.co/RbnHPGs/Screenshot-2021-11-02-at-3-58-12-PM.png)
